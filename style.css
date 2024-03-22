@@ -92,7 +92,8 @@ body {
     height: 100vh;
     font-family: 'poppins';
     font-size: 14px;
-    background-color: #8c6c79;
+    background-color: rgba(211, 145, 86, 0.514);
+
     color: #fff;
     overflow: hidden;
 }
@@ -177,7 +178,7 @@ body {
     z-index: 2;
 }
 
-.product-desc p {
+/* .product-desc p {
     position: absolute;
     font-size: 20px;
     top: -500px;
@@ -196,7 +197,7 @@ body {
     font-size: 10px;
     border: none;
     border-radius: 30px;
-}
+} */
 
 .size {
     position: absolute;
@@ -261,7 +262,8 @@ body {
     display: inline-block;
     padding: 10px 15px;
     margin: 20px 20px 20px 0;
-    background: #624652;
+    background-color: rgba(211, 145, 86, 0.514);
+
 }
 
 .media ul {
